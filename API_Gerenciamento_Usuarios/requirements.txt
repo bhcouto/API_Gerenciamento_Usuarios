@@ -1,0 +1,6 @@
+SQLALchemy==2.0.21
+Flask-JWT-Extended==4.5.3
+Flask-SQLAlchemy==3.1.1
+Flask==3.0.0
+mysqlclient==2.2.0
+PyJWT==2.8.0
